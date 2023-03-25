@@ -45,3 +45,20 @@ section-m1 {
 body {
   width: 100%;
 }
+
+/* Header Start */
+
+#header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+/* Home Page */
+
+/* Shop Page */
+
+/* Single Product */
+
+/* Blog Page */
+
+/* About Page */
