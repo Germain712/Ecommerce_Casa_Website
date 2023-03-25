@@ -74,6 +74,10 @@ body {
   font-weight: 600;
   color: #1a1a1a;
 }
+
+#navbar li a:hover {
+  color: #088178;
+}
 /* Home Page */
 
 /* Shop Page */
