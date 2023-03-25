@@ -76,9 +76,11 @@ body {
   transition: 3s ease;
 }
 
-#navbar li a:hover {
+#navbar li a:hover,
+#navbar li a.active {
   color: #088178;
 }
+
 /* Home Page */
 
 /* Shop Page */
