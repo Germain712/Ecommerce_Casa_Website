@@ -81,6 +81,16 @@ body {
   color: #088178;
 }
 
+#navbar li a.active::after {
+  content: "";
+  width: 30%;
+  height: 2px;
+  background: #088178;
+  position: absolute;
+  bottom: -4px;
+  left: 20px;
+}
+
 /* Home Page */
 
 /* Shop Page */
