@@ -166,6 +166,10 @@ body {
   margin-bottom: 10px;
 }
 
+#feature .fe-box:nth-child(2) h6 {
+  background-color: #cdebbc;
+}
+
 /* Shop Page */
 
 /* Single Product */
