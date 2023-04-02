@@ -151,6 +151,7 @@ body {
   border-radius: 4px;
   color: #088178;
   background-color: #fddde4;
+  display: inline-block;
 }
 
 /* Shop Page */
