@@ -145,6 +145,14 @@ body {
   box-shadow: 10px 10px 54px rgba(70, 62, 221, 0.1);
 }
 
+#feature .fe-box h6 {
+  padding: 9px 8px 6px 8px;
+  line-height: 1;
+  border-radius: 4px;
+  color: #088178;
+  background-color: #fddde4;
+}
+
 /* Shop Page */
 
 /* Single Product */
