@@ -196,6 +196,11 @@ body {
   padding: 10px 12px;
   border: 1px solid #cce7d0;
 }
+
+#product1 .pro img {
+  width: 100%;
+  border-radius: 20px;
+}
 /* Shop Page */
 
 /* Single Product */
