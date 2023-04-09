@@ -248,6 +248,9 @@ body {
   font-weight: 500;
   color: #088178;
   border: 1px solid #cce7d0;
+  position: absolute;
+  bottom: 20px;
+  right: 10px;
 }
 /* Shop Page */
 
