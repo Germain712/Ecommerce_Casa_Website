@@ -220,6 +220,17 @@ body {
   color: #606063;
   font-size: 12px;
 }
+
+#product1 .pro .des h5 {
+  padding-top: 7px;
+  color: #1a1a1a;
+  font-size: 14px;
+}
+
+#product1 .pro .des i {
+  font-size: 12px;
+  color: rgba(243, 181, 25);
+}
 /* Shop Page */
 
 /* Single Product */
