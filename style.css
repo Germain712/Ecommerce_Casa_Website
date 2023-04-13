@@ -307,6 +307,12 @@ body {
   color: #fff;
 }
 
+#sm-banner {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
 #sm-banner .banner-box {
   display: flex;
   flex-direction: column;
