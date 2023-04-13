@@ -325,6 +325,12 @@ body {
   background-position: center;
   padding: 30px;
 }
+
+#sm-banner h4 {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 300;
+}
 /* Shop Page */
 
 /* Single Product */
