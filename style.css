@@ -387,6 +387,14 @@ body {
   margin-bottom: 20px;
 }
 
+#banner3 .banner-box2 {
+  background-image: url(img/banner/b4.jpg);
+}
+
+#banner3 .banner-box3 {
+  background-image: url(img/banner/b18.jpg);
+}
+
 #banner3 h2 {
   color: #fff;
   font-weight: 900;
