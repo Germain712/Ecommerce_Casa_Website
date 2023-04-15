@@ -417,6 +417,18 @@ body {
   background-position: 20% 30%;
   background-color: #041e42;
 }
+
+#newsletter h4 {
+  font-size: 22px;
+  font-weight: 700;
+  color: #fff;
+}
+
+#newsletter p {
+  font-size: 14px;
+  font-weight: 600;
+  color: #818ea0;
+}
 /* Shop Page */
 
 /* Single Product */
