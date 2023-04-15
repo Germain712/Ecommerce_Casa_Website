@@ -429,6 +429,10 @@ body {
   font-weight: 600;
   color: #818ea0;
 }
+
+#newsletter span {
+  color: #ffbd27;
+}
 /* Shop Page */
 
 /* Single Product */
