@@ -599,6 +599,10 @@ footer .copyright {
   #feature .fe-box {
     margin: 15px 15px;
   }
+
+  #product1 .pro-container {
+    justify-content: center;
+  }
 }
 
 /* Shop Page */
