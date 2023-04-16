@@ -663,6 +663,10 @@ footer .copyright {
   #product1 .pro {
     width: 100%;
   }
+
+  #banner {
+    height: 40vh;
+  }
 }
 
 /* Shop Page */
