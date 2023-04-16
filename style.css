@@ -492,6 +492,16 @@ footer a {
   color: #222;
   margin-bottom: 10px;
 }
+
+footer .follow {
+  margin-top: 20px;
+}
+
+footer .follow i {
+  color: #465b52;
+  padding-right: 4px;
+  cursor: pointer;
+}
 /* Shop Page */
 
 /* Single Product */
