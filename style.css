@@ -464,6 +464,13 @@ footer {
   flex-wrap: wrap;
   justify-content: space-between;
 }
+
+footer .col {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
 /* Shop Page */
 
 /* Single Product */
