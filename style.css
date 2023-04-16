@@ -679,6 +679,10 @@ footer .copyright {
   #banner3 {
     padding: 0 20px;
   }
+
+  #banner3 .banner-box {
+    width: 100%;
+  }
 }
 
 /* Shop Page */
