@@ -630,6 +630,12 @@ footer .copyright {
   }
 }
 
+@media (max-width: 477px) {
+  #header {
+    padding: 10px 30px;
+  }
+}
+
 /* Shop Page */
 
 /* Single Product */
