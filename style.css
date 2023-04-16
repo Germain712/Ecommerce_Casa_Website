@@ -667,6 +667,10 @@ footer .copyright {
   #banner {
     height: 40vh;
   }
+
+  #sm-banner .banner-box {
+    height: 40vh;
+  }
 }
 
 /* Shop Page */
