@@ -548,6 +548,11 @@ footer .copyright {
   #navbar li {
     margin-bottom: 25px;
   }
+
+  #mobile {
+    display: flex;
+    align-items: center;
+  }
 }
 
 /* Shop Page */
