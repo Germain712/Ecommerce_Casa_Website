@@ -634,6 +634,11 @@ footer .copyright {
   #header {
     padding: 10px 30px;
   }
+
+  #hero {
+    padding: 0 20px;
+    background-position: 55%;
+  }
 }
 
 /* Shop Page */
