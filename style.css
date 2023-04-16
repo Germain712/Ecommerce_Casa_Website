@@ -659,6 +659,10 @@ footer .copyright {
     width: 155px;
     margin: 0 0 15px 0;
   }
+
+  #product1 .pro {
+    width: 100%;
+  }
 }
 
 /* Shop Page */
