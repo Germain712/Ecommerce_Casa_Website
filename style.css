@@ -591,6 +591,10 @@ footer .copyright {
   #feature {
     justify-content: center;
   }
+
+  #feature .fe-box {
+    margin: 15px 15px;
+  }
 }
 
 /* Shop Page */
