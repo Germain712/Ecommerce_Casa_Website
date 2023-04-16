@@ -502,6 +502,11 @@ footer .follow i {
   padding-right: 4px;
   cursor: pointer;
 }
+
+footer .install .row img {
+  border: 1px solid #088178;
+  border-radius: 6px;
+}
 /* Shop Page */
 
 /* Single Product */
