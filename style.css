@@ -698,7 +698,9 @@ footer .copyright {
 }
 
 /* Shop Page */
-
+#page-header {
+  background-image: url(img/banner/b1.jpg);
+}
 /* Single Product */
 
 /* Blog Page */
