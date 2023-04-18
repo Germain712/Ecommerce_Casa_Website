@@ -707,6 +707,12 @@ footer .copyright {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  padding: 14px;
+}
+
+#page-header h2,
+#page-header p {
+  color: #fff;
 }
 /* Single Product */
 
