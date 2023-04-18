@@ -706,6 +706,7 @@ footer .copyright {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
 }
 /* Single Product */
 
